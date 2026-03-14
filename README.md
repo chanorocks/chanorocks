@@ -42,3 +42,11 @@ and modern web applications.
 ![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge)
 
 ![QGIS](https://img.shields.io/badge/QGIS-93b023?logo=qgis&logoColor=white&style=for-the-badge)
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+<p align="center">
+    <img height=210 src="https://readme-bay-ten.vercel.app/api?username=chanorocks&show_icons=true&theme=apprentice&count_private=true&include_all_commits=true&icon_color=181717&hide_title=true&rank_icon=github&hide_border=true&hide=stars,issues,prs&show=prs_merged_percentage"/>
+    <img height=210 src="https://readme-bay-ten.vercel.app/api/top-langs/?username=chanorocks&hide_progress=true&theme=apprentice&hide_title=true&langs_count=8&exclude_repo=readme,nbc,water_billing,buildingadmin,zoningadmin,stacruz_building,stacruz_zoningadmin,buildingclient,react-tic-tac-toe,marinduque_rpta,carmona_rptac,rptac_online,bpladmin&hide_border=true"/>
+</p>
